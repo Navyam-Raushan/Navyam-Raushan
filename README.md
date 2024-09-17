@@ -9,6 +9,6 @@ Here’s a bit more about me:
 - 🧑‍💻 Doing hands on Problems over LEETCODE and improving DSA
 - 👯 I’m looking to collaborate on ML Projects of Various Domains.
 - 💬 Ask me about ML, DSA, Web Development
-- 📫 How to reach me: Check my Linkedin Profile [here](https://www.linkedin.com/in/navyam-raushan-43394424a/]
+- 📫 How to reach me: Check my Linkedin Profile [here](https://www.linkedin.com/in/navyam-raushan-43394424a/)
 - ⚡ Fun fact: I am a 3rd year engineering student looking for my first internship/ job.
 
