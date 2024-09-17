@@ -1,6 +1,6 @@
 ## Hi there, I'm Navyam👋
 
-Welcome to my GitHub profile! I'm a passionate in AI/ML Engineer and Python Developer, Currently a College Student.
+Welcome to my GitHub profile! I'm a passionate AI/ML Engineer and Python Developer, Currently a College Student.
 Here’s a bit more about me:
 
 ---
